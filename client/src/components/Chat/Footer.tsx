@@ -69,7 +69,6 @@ export default function Footer({ className }: { className?: string }) {
                 href={href}
                 target="_blank"
                 rel="noreferrer"
-                test="toto"
                 {...otherProps}
               >
                 {children}
